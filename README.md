@@ -8,4 +8,4 @@ Para executar o jupyter:
 
 $ jupyter notebook
 
-O arquivo que deve ser executado no jupyter é o Geofusion.ipynb
+O arquivo que deve ser executado no jupyter é o solution.ipynb
