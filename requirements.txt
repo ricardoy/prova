@@ -44,7 +44,6 @@ gevent==1.0
 gevent-socketio==0.3.6
 gevent-websocket==0.9.3
 greenlet==0.4.2
-gunicorn==17.5
 gym==0.5.7
 h5py==2.2.1
 html5lib==0.999
@@ -93,7 +92,6 @@ oneconf==0.3.7.14.4.1
 packaging==16.8
 PAM==0.4.2
 pandas==0.18.1
-paramiko==1.10.1
 path.py==8.1.2
 patsy==0.2.1
 pbr==1.10.0
