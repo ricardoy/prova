@@ -47,7 +47,7 @@ greenlet==0.4.2
 gym==0.5.7
 h5py==2.2.1
 html5lib==0.999
-httplib2==0.8
+httplib2==0.18.0
 idna==2.2
 imagesize==0.7.0
 ipaddress==1.0.18
