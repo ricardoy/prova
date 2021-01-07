@@ -68,7 +68,7 @@ Lasagne==0.1
 leveldb==0.1
 lmdb==0.87
 lockfile==0.8
-lxml==3.3.3
+lxml==4.6.2
 Mako==0.9.1
 Markdown==2.4
 MarkupSafe==0.23
