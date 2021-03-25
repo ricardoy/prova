@@ -132,7 +132,7 @@ python-xlib==0.14
 pytools==2016.2.6
 pytz==2016.10
 pyxdg==0.25
-PyYAML==3.11
+PyYAML==5.4
 pyzmq==15.2.0
 qidicom==2.3.11
 qiutil==2.2.12
