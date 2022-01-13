@@ -97,7 +97,7 @@ patsy==0.2.1
 pbr==1.10.0
 pexpect==4.0.1
 pickleshare==0.6
-Pillow==4.0.0
+Pillow==9.0.0
 piston-mini-client==0.7.5
 plotly==1.9.6
 protobuf==3.0.0b2
