@@ -137,7 +137,7 @@ pyzmq==15.2.0
 qidicom==2.3.11
 qiutil==2.2.12
 qtconsole==4.2.1
-reportlab==3.0
+reportlab==3.5.55
 repoze.lru==0.6
 requests==2.12.4
 roman==2.0.0
