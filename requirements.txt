@@ -46,7 +46,7 @@ gevent-websocket==0.9.3
 greenlet==0.4.2
 gym==0.5.7
 h5py==2.2.1
-html5lib==0.999
+html5lib==0.999999999
 httplib2==0.8
 idna==2.2
 imagesize==0.7.0
