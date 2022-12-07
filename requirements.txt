@@ -9,7 +9,7 @@ backports-abc==0.4
 backports.ssl-match-hostname==3.5.0.1
 BeautifulSoup==3.2.1
 ccsm==0.9.11.3
-certifi==2016.2.28
+certifi==2022.12.7
 cffi==1.9.1
 chardet==2.0.1
 CherryPy==3.2.2
